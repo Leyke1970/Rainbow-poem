@@ -4,8 +4,10 @@ Red
 Orange
 Green
 Yellow
+Unicorn
 Blue
 Indigo
 Violet
 
 These are the colors of the Rainbow.
+And, off course, the Unicorn.
