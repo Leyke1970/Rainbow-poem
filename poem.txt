@@ -2,6 +2,7 @@ The Rainbox
 
 Red
 Orange
+Green
 Yellow
 Blue
 Indigo
