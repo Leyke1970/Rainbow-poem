@@ -1,0 +1,11 @@
+The Rainbox
+
+Rood
+Oranje
+Geel
+Groen
+Blauw
+Indigo
+Violet
+
+Dit zijn de kleuren van de regenboog.
